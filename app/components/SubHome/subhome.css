@@ -1,0 +1,35 @@
+.MainSubhome{
+    display: flex;
+    margin-top: 10px;
+}
+
+.subhomeLeft{
+   
+    flex:1.3;
+    
+}
+
+.MainSubhomeCenter{
+    flex:1.9;
+    
+}
+
+.subhomeRight{
+    flex:2;
+    
+}
+
+.left-cont{
+    
+    background-color: #DC5F00;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 130px;
+    margin-right: 50px;
+    padding-bottom: 500px;
+    padding-top:100px;
+    padding-left:100px;
+    padding-right:100px;
+}
